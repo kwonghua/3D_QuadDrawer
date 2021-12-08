@@ -20,3 +20,5 @@ All the source files are in https://github.com/kwonghua/3D_QuadDrawer/tree/maste
 All dependencies are in https://github.com/kwonghua/3D_QuadDrawer/tree/master/third_party  
 
 Can download and use those to compile your own version if you like  
+
+inspired by **https://www.youtube.com/watch?v=exQ43PFWJBU**  
