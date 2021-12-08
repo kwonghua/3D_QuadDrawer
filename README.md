@@ -16,5 +16,7 @@ C - toggles between all the colors
 
   [![CLICK HERE FOR DEMO](https://github.com/kwonghua/3D_QuadDrawer/blob/main/demo%20link.png)](https://www.youtube.com/watch?v=vOr3hTKzJ0Y)   
 
-I am not too familiar with uploading, however all the source files are in https://github.com/kwonghua/3D_QuadDrawer/tree/master/Project1  
-and all dependencies are in https://github.com/kwonghua/3D_QuadDrawer/tree/master/third_party  
+All the source files are in https://github.com/kwonghua/3D_QuadDrawer/tree/master/Project1  
+All dependencies are in https://github.com/kwonghua/3D_QuadDrawer/tree/master/third_party  
+
+Can download and use those to compile your own version if you like  
