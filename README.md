@@ -13,3 +13,6 @@ Up,Down,Left,Right - Move cursor on grid (x and z axis)
 J, K - Move cursor up/down (y axis)  
 Space - Places a vertex at current position  
 C - toggles between all the colors  
+
+  [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)  
+
