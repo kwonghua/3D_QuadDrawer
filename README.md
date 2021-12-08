@@ -14,5 +14,5 @@ J, K - Move cursor up/down (y axis)
 Space - Places a vertex at current position  
 C - toggles between all the colors  
 
-  [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)  
+  [![CLICK HERE FOR DEMO](https://github.com/kwonghua/3D_QuadDrawer/blob/main/example.png)](https://www.youtube.com/watch?v=vOr3hTKzJ0Y)  
 
