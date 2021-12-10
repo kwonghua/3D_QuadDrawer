@@ -12,7 +12,7 @@ Space - Places a vertex at current position
 C - toggles between all the colors
 */
 
-#include <iostream>a
+#include <iostream>
 
 #include <glad/glad.h>
 #include <glad/glad.c>
